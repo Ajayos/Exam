@@ -37,9 +37,9 @@ use databasename;
 ```
 create table tablename (insert_value_method);
 ```
-``
+
 [insert_value_method](#insert_value_method)
-``
+
 
 
 # insert_value_method

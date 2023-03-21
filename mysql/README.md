@@ -69,7 +69,7 @@ INSERT INTO table_name(column_name) VALUES (data);
 ```
 Example:
 ```sql
-INSERT INTO cat(name, age)
+INSERT INTO cats(name, age)
 VALUE('Uni', 1)
 ```
 
